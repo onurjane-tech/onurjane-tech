@@ -1,18 +1,16 @@
-# Merhaba, ben Umut 👋
+# Merhaba, ben Umut Jane 👋
 
-Yazılım geliştiriyorum, frontend/backend ve otomasyon konularına ilgi duyuyorum.
+Yazılım geliştiriyorum, Python ve Oyun Kodlama konularına ilgi duyuyorum.👍
 
-## Teknolojiler
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Git/GitHub
+## Kullandığım Platformlar
+- JavaScript👾
+- Python👍
+- Unity
+- Github
 
-## İletişim
+## İletişim Kurabileceğiniz Siteler
 - Email: janeumut@gmail.com
-- LinkedIn: linkedin.com/in/ornek
-- GitHub: github.com/onurjane-tech
+- GitHub: github.com/umutjane-tech
 
 ## Durum
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=onurjane-tech)
