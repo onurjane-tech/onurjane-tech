@@ -10,7 +10,7 @@ Yazılım geliştiriyorum, Python ve Oyun Kodlama konularına ilgi duyuyorum.�
 
 ## İletişim Kurabileceğiniz Siteler
 - Email: janeumut@gmail.com
-- GitHub: github.com/umutjane-tech
+
 
 ## Durum
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=onurjane-tech)
