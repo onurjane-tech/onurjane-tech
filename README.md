@@ -1,5 +1,8 @@
 # Merhaba, ben Umut Jane 👋
 
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif"/>
+</p>
 
 Yazılım geliştiriyorum, Python ve Oyun Kodlama konularına ilgi duyuyorum.👍
 
