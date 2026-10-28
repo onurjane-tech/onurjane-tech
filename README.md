@@ -1,4 +1,4 @@
-# Merhaba, ben Umut Jane 👋
+# Hello, I'M Umut Jane, Nice to meet you!👋
 
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
